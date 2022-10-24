@@ -22,7 +22,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/107701554/197322165-1d91f986-9e31-41c9-9675-b431b6c063e8.gif)
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/107701554/197444095-c64bfb73-6839-4c90-9f7a-aee5c052b242.gif)
+
 
 
 # Parstagram - Part I
